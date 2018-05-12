@@ -8,7 +8,6 @@ An interactive app that uses Unity3D and Vuforia to bring our nearby planets to 
 
 # Building
 
--------
 # What's needed
 
 - Unity configured to build for Android
