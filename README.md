@@ -13,7 +13,7 @@ An interactive app that uses Unity3D and Vuforia to bring our nearby planets to 
 - Unity configured to build for Android
 
 1. Clone this repository
-2. Make a new projet in Unity
+2. Make a new project in Unity
 3. Move all the stuff in the Unity folder into Unity's Assets folder
 4. Go to file, build settings, select Android and press build
 
