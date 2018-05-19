@@ -9,7 +9,6 @@ An interactive app that uses Unity3D and Vuforia to bring our nearby planets to 
 
 -------
 
-# 
 
 
 
@@ -20,6 +19,7 @@ An interactive app that uses Unity3D and Vuforia to bring our nearby planets to 
 
 
 
+![Download](https://imgur.com/qm8ALFW)
 
 
 -------
