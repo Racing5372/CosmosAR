@@ -31,7 +31,7 @@ An interactive app that uses Unity3D and Vuforia to bring our nearby planets to 
 
 - iTunes (signed in with your Apple ID)
 - The latest .ipa from ![here](https://github.com/Racing5372/CosmosAR/releases)
-- ![Cydia Impactor](https://cydia.saurik.com/api/latest/2
+- ![Cydia Impactor](https://cydia.saurik.com/api/latest/2)
 
 
 1. Plug your iDevice into your PC
@@ -46,7 +46,7 @@ An interactive app that uses Unity3D and Vuforia to bring our nearby planets to 
 
 - Unity configured to build for iOS
 - Xcode
--A Vuforia account
+- A Vuforia account
 
 1. Clone this repository
 2. Make a new project in Unity
