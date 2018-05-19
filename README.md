@@ -7,7 +7,7 @@
 
 An interactive app that uses Unity3D and Vuforia to bring our nearby planets to life. Using colour-coded cards, the app displays each world. Tap a button to view information about our solar system and it's mysteries.
 
-Download cards at https://racing5372.github.io/CosmosAR/cards
+Download cards at <https://racing5372.github.io/CosmosAR/cards>
 
 -------
 
