@@ -8,15 +8,51 @@ An interactive app that uses Unity3D and Vuforia to bring our nearby planets to 
 
 # Building
 
+# Android
+
 # What's needed
 
 - Unity configured to build for Android
 
 1. Clone this repository
 2. Make a new project in Unity
-3. Move all the stuff in the Unity folder into Unity's Assets folder
+3. Move all the stuff in the Unity folder into the newly created project's folder
 4. Go to file, build settings, select Android and press build
 
+-------
+
+# iOS
+
+# With Windows
+
+# What's needed
+
+- iTunes (signed in with your Apple ID)
+- The latest .ipa from ![here](https://github.com/Racing5372/CosmosAR/releases)
+- ![Cydia Impactor](https://cydia.saurik.com/api/latest/2)
+
+
+1. Plug your iDevice into your PC
+2. Open Cydia Impactor and drag the .ipa onto the Cydia window
+3. Enter your Apple ID and let it load
+
+-------
+
+# With Mac
+
+# What's needed
+
+- Unity configured to build for iOS
+- Xcode
+
+1. Clone this repository
+2. Make a new project in Unity
+3. Move all the stuff in the Unity folder into the newly created project's folder
+4. Go to file, build settings, select iOS and press build
+5. Once it builds, import the newly created folder into Xcode
+6. Plug your iDevice into your Mac
+7. Sign the app using your Apple ID
+8. Press build
 
 -------
 
