@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Racing5372/Downloads/CosmosAR-earthplswork.apk
+C:/Users/Racing5372/Downloads/CosmosAR-1pointtt1.apk
 SceneListBegin?
 Assets/Scenes/SolarSystem 1.unity
 SceneListEnd?
